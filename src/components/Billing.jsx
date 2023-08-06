@@ -11,13 +11,12 @@ const Billing = () => (
       </div>
       
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Easily control your <br className="sm:block hidden"></br>billing & invoicing.</h2>
+        <h2 className={styles.heading2}>Ahorra como nunca <br className="sm:block hidden"></br>con Sky Soccer Plus</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat.
+        Con el servicio todo en uno ya no es necesario andar pagando múltiples servicios de streaming, te ahorras más de $800 pesos al mes!
         </p>
 
         <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
-          <img src={apple} alt="apple" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer"/>
           <img src={google} alt="google" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer"/>
         </div>
       </div>

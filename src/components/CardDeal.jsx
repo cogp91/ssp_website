@@ -5,8 +5,8 @@ import Button from './Button'
 const CardDeal = () => (
     <section className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Find a better card deal <br className='sm:block hidden'/> in few easy steps.</h2>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.</p>
+        <h2 className={styles.heading2}>VE NUESTRA CARTELERA <br className='sm:block hidden'/> DE PELICULAS Y SERIES</h2>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Disfruta de nuestra gran amplia cartelera de películas que van saliendo del cine, de streaming o de las películas que ya no estan en ninguna plataforma, así como también de nuestro gran catálogo de series que tenemos, que se actualizan cada semana con los capítulos nuevos. </p>
         <Button styles='mt-10'></Button>
       </div>
 

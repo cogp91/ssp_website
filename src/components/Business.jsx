@@ -21,9 +21,9 @@ const FeatureCard = ({icon, title, content, index}) => (
 const Business = () => (
     <section id='features' className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={`${styles.heading2}`}>You do the business, <br className='sm:block hidden'></br> we'll handle the money.</h2>
+        <h2 className={`${styles.heading2}`}>QUÉ NECESITAS <br className='sm:block hidden'></br> PARA UNIRTE A NOSOTROS</h2>
         <p className={`${styles.paragraph} max-w-[470px]`}>
-        With the right credit card, you can improve your financial life by building credit, earning rewards and saving money. But with hundreds of credit cards on the market.
+        SKY SOCCER PLUS es una aplicación que se puede instalar en el sistema operativo Android. Aquí te decimos en que dispositivos se puede usar.
         </p>
         
         <Button styles='mt-10'></Button>

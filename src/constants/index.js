@@ -1,45 +1,45 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, cellphone, tv  } from "../assets";
 
 export const navLinks = [
   {
     id: "home",
-    title: "Home",
+    title: "Inicio",
   },
   {
     id: "features",
-    title: "Features",
+    title: "Qué Necesitas?",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Sky Soccer Plus",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Inscríbete",
   },
 ];
 
 export const features = [
   {
     id: "feature-1",
-    icon: star,
-    title: "Rewards",
+    icon: cellphone,
+    title: "Celurares o Tabletas",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Dispositivos android como celulares y tabletas, si te corre cualquier aplicación de Netflix, Prime Video, etc, te correra fácil la aplicación. ",
   },
   {
     id: "feature-2",
-    icon: shield,
-    title: "100% Secured",
+    icon: tv,
+    title: "Firetv stick, tv box, tv, chromecast (blanco)",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Si tienes una tele con s.o Android no necesitarás de ningun otro dispositivo, de lo contrario hay opciones, sólo asegurate que sea sistema operativo Android.",
   },
   {
     id: "feature-3",
-    icon: send,
-    title: "Balance Transfer",
+    icon: shield,
+    title: "100% Seguro",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Contamos con más de 100 clientes satisfechos. Actualizamos nuestra cartelera de series y películas cada viernes y en algunos casos hasta antes.",
   },
 ];
 
@@ -47,7 +47,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Paquete 1 -- Promoción de tiempo límitado de $200,00mxn a tan sólo $180,00mxn al mes.",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -55,7 +55,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Pauqete 3 -- 3 meses por $550,00mxn ($183,33 al mes)",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -63,7 +63,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Paquete 6  --  6 meses por $1000,00mxn ($166,66mxn al mes)",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "PELICULAS",
+    value: "4000+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "SERIES",
+    value: "400+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "CANALES PREMIUM EN VIVO Y EVENTOS DEPORTIVOS",
+    value: "50+",
   },
 ];
 
@@ -158,23 +158,19 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/streaming.mx.oficial",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/profile.php?id=100095255946414",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://www.twitter.com/todo_stream_mx",
   },
-  {
-    id: "social-media-4",
-    icon: linkedin,
-    link: "https://www.linkedin.com/",
-  },
+
 ];
 
 export const clients = [
