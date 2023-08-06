@@ -48,7 +48,7 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Paquete 1 -- Promoción de tiempo límitado de $200,00mxn a tan sólo $180,00mxn al mes.",
-    name: "Herman Jensen",
+    name: "1 Mes",
     title: "Founder & Leader",
     img: people01,
   },
@@ -56,7 +56,7 @@ export const feedback = [
     id: "feedback-2",
     content:
       "Pauqete 3 -- 3 meses por $550,00mxn ($183,33 al mes)",
-    name: "Steve Mark",
+    name: "3 Meses",
     title: "Founder & Leader",
     img: people02,
   },
@@ -64,7 +64,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "Paquete 6  --  6 meses por $1000,00mxn ($166,66mxn al mes)",
-    name: "Kenn Gallagher",
+    name: "6 Meses",
     title: "Founder & Leader",
     img: people03,
   },
