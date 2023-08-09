@@ -55,7 +55,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Pauqete 3 -- 3 meses por $550,00mxn ($183,33 al mes)",
+      "Paquete 3 -- 3 meses por $550,00mxn ($183,33 al mes)",
     name: "3 Meses",
     title: "Founder & Leader",
     img: people02,
