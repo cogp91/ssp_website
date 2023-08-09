@@ -1,6 +1,6 @@
 import {features} from '../constants'
 import styles, {layout} from '../style'
-import Button from './Button'
+import Instalador from './instalador'
 
 const FeatureCard = ({icon, title, content, index}) => (
   <div className={`flex flex-row p-6 rounded-[20px] ${index !== features.length-1 ? 'mb/6' : 'mb-0'} feature-card`}>
@@ -26,7 +26,7 @@ const Business = () => (
         SKY SOCCER PLUS es una aplicación que se puede instalar en el sistema operativo Android. Aquí te decimos en que dispositivos se puede usar.
         </p>
         
-        <Button styles='mt-10'></Button>
+        <Instalador styles='mt-10'></Instalador>
       </div>
 
       <div className={`${layout.sectionImg} flex-col`}>
