@@ -47,7 +47,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Paquete 1 -- Promoción de tiempo límitado de $200,00mxn a tan sólo $180,00mxn al mes.",
+      "Paquete 1 -- $200,00mxn al mes.",
     name: "1 Mes",
     title: "Founder & Leader",
     img: people01,
